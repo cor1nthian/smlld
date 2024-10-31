@@ -11,7 +11,7 @@ Const ForReading   = 1
 Const ForWriting   = 2
 Const ForAppending = 8
 
-Const LogPath      = "C:\Program Files\Zabbix Agent\\Scripts\ScriptData\Logs\smlld.log"
+Const LogPath      = "C:\Program Files\Zabbix Agent\Scripts\ScriptData\Logs\smlld.log"
 Const LogPrevPath  = "C:\Program Files\Zabbix Agent\Scripts\ScriptData\Logs\smlld_prev.log"
 
 Const OutPath      = "C:\Program Files\Zabbix Agent\Scripts\ScriptData\smlld_out.txt"
