@@ -149,7 +149,7 @@ If Len(strOut) = 0 Then
 Else
 	LogAddLine "LLD string generated"
 End If
-strOut = strOut + "]"
+strOut = strOut & "]"
 Set outFile = objFSO.CreateTextFile(OutPath, True, False)
 outFile.Write strOut
 outFile.Close
