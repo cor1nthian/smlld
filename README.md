@@ -1,2 +1,2 @@
 # smlld
-Smartmontools LLD Script
+Zabbix Agent Smartmontools LLD Script
